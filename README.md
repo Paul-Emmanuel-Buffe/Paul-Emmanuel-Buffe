@@ -10,8 +10,11 @@ Passionate about AI, its challenges and the domain of data in general, I am look
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Emmanuel-Buffe" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Paul-Emmanuel-Buffe&show_icons=true&hide_title=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Emmanuel-Buffe" alt= "GitHub Contributions" />
 </p>
+
+
  
 
