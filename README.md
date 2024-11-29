@@ -25,6 +25,8 @@ Passionate about AI, its challenges and the domain of data in general, I am look
 
 **Education :**  La Plateforme school student, specializing in **AI** and **data**.
 
+
+
 ## My tools:
 
 - Python
@@ -32,6 +34,29 @@ Passionate about AI, its challenges and the domain of data in general, I am look
 - Git 
 - Bash 
   
+## List of projects
+
+- [] **Create a bot to add on my TicTacToe**
+
+- [] **Recommendation System** :
+    
+    - Basic Level: Implement a system based on popularity.
+    - Progression: Add simple collaborative filtering using tools like Pandas or Scikit-learn.
+    - Advanced Goal: Use predictive models for personalized recommendations.
+
+- [] **Simple Port Scanner** : 
+      
+      Create a tool capable of scanning ports on a target machine to identify open ones, 
+      simulating basic behavior of scanners like nmap.
+
+    - Understanding the basics of networks and ports (TCP/UDP).
+    - Using sockets in Python.
+    - Identifying open ports for potentially vulnerable services.
+     
+
+
+
+
 
 
 ## Some informations:
