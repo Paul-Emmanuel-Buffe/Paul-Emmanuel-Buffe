@@ -19,7 +19,8 @@ Passionate about AI, its challenges and the domain of data in general, I am look
 
 **Skills :**
   - Big Data
-  - Artificial intelligenceI
+  - Artificial intelligence
+  - Python Developer
 
 
 **Education :**  La Plateforme school student, specializing in **AI** and **data**.
