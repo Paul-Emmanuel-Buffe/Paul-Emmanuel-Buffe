@@ -36,19 +36,18 @@ Passionate about AI, its challenges and the domain of data in general, I am look
   
 ## List of projects
 
-- [] **Create a bot to add on my TicTacToe**
+- [ ] **Create a bot to add on my TicTacToe**
 
-- [] **Recommendation System** :
+- [ ] **Recommendation System** :
     
     - Basic Level: Implement a system based on popularity.
     - Progression: Add simple collaborative filtering using tools like Pandas or Scikit-learn.
     - Advanced Goal: Use predictive models for personalized recommendations.
 
-- [] **Simple Port Scanner** : 
+- [ ] **Simple Port Scanner** : 
       
-      Create a tool capable of scanning ports on a target machine to identify open ones, 
+    - Create a tool capable of scanning ports on a target machine to identify open ones, 
       simulating basic behavior of scanners like nmap.
-
     - Understanding the basics of networks and ports (TCP/UDP).
     - Using sockets in Python.
     - Identifying open ports for potentially vulnerable services.
