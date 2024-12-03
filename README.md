@@ -25,6 +25,7 @@ Passionate about AI, its challenges and the domain of data in general, I am look
 
 **Education :**  La Plateforme school student, specializing in **AI** and **data**.
 
+## Tools
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 [![Trello](https://img.shields.io/badge/Trello-Board-0079BF?logo=trello&logoColor=white)](https://trello.com/b/VOTRE_ID_DE_BOARD)
