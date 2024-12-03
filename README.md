@@ -28,18 +28,12 @@ Passionate about AI, its challenges and the domain of data in general, I am look
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 [![Trello](https://img.shields.io/badge/Trello-Board-0079BF?logo=trello&logoColor=white)](https://trello.com/b/VOTRE_ID_DE_BOARD)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+[![Linux](https://img.shields.io/badge/Linux-OS-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-Editor-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+[![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Styles-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![Figma](https://img.shields.io/badge/Figma-Design-FF7262?logo=figma&logoColor=white)](https://www.figma.com/file/VOTRE_ID_DE_FIGMA)
-[Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-## My tools:
 
-- Python
-- Linux
-- Git 
-- Bash 
   
 ## List of projects
 
