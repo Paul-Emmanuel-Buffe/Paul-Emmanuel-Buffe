@@ -77,14 +77,3 @@ With a strong interest in AI, its challenges, and the world of data, I am eager 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=notion&logoColor=white&style=for-the-badge)](https://paul-emmanuel-buffe.github.io/portfolio/)
      
 
-## Some informations:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Emmanuel-Buffe" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Emmanuel-Buffe&show_icons=true&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Emmanuel-Buffe" alt= "GitHub Contributions" />
-</p>
-
-
- 
-
