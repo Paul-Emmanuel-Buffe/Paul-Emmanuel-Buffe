@@ -61,9 +61,9 @@ With a strong interest in AI, its challenges, and the world of data, I am eager 
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Emmanuel-Buffe&layout=compact&theme=tokyonight" alt="Top Languages" style="display: inline;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Emmanuel-Buffe&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="display: inline;" />
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Emmanuel-Buffe&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="display: inline;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-Emmanuel-Buffe&theme=tokyonight" alt="GitHub Contributions" />
 </p>
 
