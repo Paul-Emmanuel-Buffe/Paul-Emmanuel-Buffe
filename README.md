@@ -4,7 +4,7 @@
 
 # 👨‍💻 About Me
 
-Passionate about AI, its challenges and the domain of data in general, I am looking to join an exciting apprenticeship to kickstart my career in these fields. With a strong background as an entrepreneur and team leader, I am determined, serious, and ready to take on new challenges, whether in France or internationally, while contributing to innovative solutions.
+With a strong interest in AI, its challenges, and the world of data, I am eager to join an apprenticeship that will allow me to apply and develop my skills in these fields. With an entrepreneurial background and leadership experience, I thrive in dynamic environments where innovation and problem-solving are key. Determined and adaptable, I am ready to take on ambitious challenges, whether in France or abroad, and contribute to forward-thinking projects with a real impact.
 
 ## 🎯 My action
 
