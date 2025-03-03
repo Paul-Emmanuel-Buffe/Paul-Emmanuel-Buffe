@@ -33,7 +33,7 @@ Passionate about AI, its challenges and the domain of data in general, I am look
 
 ## 📋 Current Projects
 
-- [ ] 🎮 **Create an AI bot for my TicTacToe game**
+- [x] 🎮 **Create an AI bot for my TicTacToe game**
 - [ ] 🔍 **Recommendation System**:
   - Basic Level: Implement a system based on popularity
   - Intermediate: Add collaborative filtering using Pandas/Scikit-learn
@@ -44,9 +44,6 @@ Passionate about AI, its challenges and the domain of data in general, I am look
   - Identify potentially vulnerable services through port scanning
 
 ## List of projects
-
-- [ ] **Create a bot to add on my TicTacToe**
-
 - [ ] **Recommendation System** :
     
     - Basic Level: Implement a system based on popularity.
