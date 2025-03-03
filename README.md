@@ -15,7 +15,7 @@ With a strong interest in AI, its challenges, and the world of data, I am eager 
 - 🧠 Artificial Intelligence
 - 🐍 Python Developer
 
-**Education:** 🎓 La Plateforme school student, specializing in **AI** and **data**.
+**Education:** 🎓 La Plateforme school (France) student, specializing in **AI** and **data**.
 
 ## 🛠️ Tech Stack
 
