@@ -20,6 +20,8 @@ Passionate about AI, its challenges and the domain of data in general, I am look
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=sql&logoColor=fff&style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
@@ -41,22 +43,6 @@ Passionate about AI, its challenges and the domain of data in general, I am look
   - Apply network fundamentals and socket programming in Python
   - Identify potentially vulnerable services through port scanning
 
-
-
-
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/Figma-FF7262?logo=figma&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
-  
 ## List of projects
 
 - [ ] **Create a bot to add on my TicTacToe**
@@ -93,11 +79,6 @@ Passionate about AI, its challenges and the domain of data in general, I am look
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:votre-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=notion&logoColor=white&style=for-the-badge)](https://votre-portfolio.com)
      
-
-
-
-
-
 
 ## Some informations:
 
