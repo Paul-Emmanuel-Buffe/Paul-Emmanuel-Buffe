@@ -60,7 +60,7 @@ With a strong interest in AI, its challenges, and the world of data, I am eager 
 <<<<<<< HEAD
      
 
-## 🚀 Mes contributions
+## 🚀 My Direct Contributions
 
 - **[Dr Death - Power BI Analysis of Harold Shipman](https://github.com/khady-ndiaye/Dr_death)** - Forensic analysis through an interactive dashboard revealing criminal patterns (targets, timing, locations) of the most prolific British serial killer. Data cleaning, DAX, visualizations (heatmaps, maps). 
 
