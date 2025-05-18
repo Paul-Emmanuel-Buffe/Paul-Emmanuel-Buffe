@@ -55,7 +55,11 @@ Passionate about AI, its challenges and the domain of data in general, I am look
     - Identifying open ports for potentially vulnerable services.
      
 
+## 🚀 Mes contributions
 
+- **[Dr Death - Power BI Analysis of Harold Shipman](https://github.com/khady-ndiaye/Dr_death)** - Forensic analysis through an interactive dashboard revealing criminal patterns (targets, timing, locations) of the most prolific British serial killer. Data cleaning, DAX, visualizations (heatmaps, maps). 
+
+- **[Sorting Algorithms](https://github.com/ouda-sadek/sorting-algorithms)** - Implementation of 7 classic sorting algorithms with result display and execution time measurement. A learning tool to understand and compare sorting performance on lists of real numbers.
 
 
 
