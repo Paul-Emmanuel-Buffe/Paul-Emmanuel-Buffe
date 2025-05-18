@@ -67,12 +67,6 @@ With a strong interest in AI, its challenges, and the world of data, I am eager 
 - **[Sorting Algorithms](https://github.com/ouda-sadek/sorting-algorithms)** - Implementation of 7 classic sorting algorithms with result display and execution time measurement. A learning tool to understand and compare sorting performance on lists of real numbers.
 
 
-
-
-## Some informations:
-=======
->>>>>>> 70fc72d8c6827835038ae405b4f8ea374a3ee025
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Emmanuel-Buffe&layout=compact&theme=tokyonight" alt="Top Languages" style="display: inline;" />
