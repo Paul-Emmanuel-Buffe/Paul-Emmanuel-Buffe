@@ -72,36 +72,56 @@ Analyse de données indépendante pour Arkose, une chaîne européenne de salles
 > 📁 *Dépôt:* [`arkose-case-study`](#)
 
 ---
+## 🚀 Projects
 
-### 🩺 Dr Death - Analyse Power BI du Tueur en Série Harold Shipman
+### 🔤 Lingua Franca – Real-Time Translation App
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)](https://flask.palletsprojects.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
+A professional web application for real-time multilingual text translation using the DeepL API. Clean UI, responsive design, and seamless interactions via AJAX.
+**Key features:** intelligent typing detection, automatic language recognition, copy-to-clipboard.
+
+> 🛠 *Technologies used:* Python · Flask · JavaScript · HTML/CSS · DeepL API
+> 📁 *Repository:* [`lingua-franca`](https://github.com/Paul-Emmanuel-Buffe/lingua-franca)
+
+---
+
+### 🧗 Arkose – Customer Retention Data Case Study
+[![SQL](https://img.shields.io/badge/SQL-SQLite-informational)](https://sqlite.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Analysis-success)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blueviolet)](https://seaborn.pydata.org/)
+
+An independent data analysis for Arkose, a European indoor climbing gym chain. The study identifies churn factors and proposes actionable strategies using Python and SQL.
+
+**Highlights:**
+- Customer segmentation by behavior
+- Inactivity detection (>90 days)
+- Strategic recommendations for retention
+
+> 🛠 *Technologies used:* Python · Pandas · SQLite · SQL · Matplotlib · Seaborn
+> 📄 *Deliverables:* PDF report, interactive notebook, SQL script
+> 📁 *Repository:* [`arkose-case-study`](#)
+
+---
+
+### 🩺 Dr Death - Power BI Analysis of Serial Killer Harold Shipman
 [![Power BI](https://img.shields.io/badge/Power_BI-Analysis-yellow)](https://powerbi.microsoft.com/)
 
-Ce projet vise à explorer les données relatives aux meurtres commis par Harold Shipman, considéré comme le tueur en série le plus prolifique du Royaume-Uni. Grâce à la création d'un tableau de bord interactif dans Power BI, nous cherchons à répondre à la question centrale :
+This project aims to explore data related to the murders committed by Harold Shipman, considered the most prolific serial killer in the United Kingdom. Through the creation of an interactive dashboard in Power BI, we seek to answer the central question:
 
-Quels types de personnes Harold Shipman a-t-il tuées, et quand sont-elles mortes ?
+What types of people did Harold Shipman kill, and when did they die?
 
-Ce travail combine l'analyse de données et la visualisation interactive pour mieux comprendre les tendances, les profils des victimes et les anomalies temporelles dans ses crimes.
+This work combines data analysis and interactive visualization to better understand trends, victim profiles, and temporal anomalies in his crimes.
 
-**Points forts :**
-- Surveillance technologique sur Power BI
-- Analyse de Shipman incluant le chargement, le nettoyage, la transformation et la visualisation des données
-- Profil des victimes, analyse temporelle, analyse des lieux de décès, étude de corrélation et comparaisons avec d'autres médecins
+**Highlights:**
+- Technological monitoring on Power BI
+- Shipman analysis including data loading, cleaning, transformation, and visualization
+- Victim profile, temporal analysis, analysis of places of death, correlation study, and comparisons with other doctors
 
-> 🛠 *Technologies utilisées:* Power BI · DAX · Power Query
-> 📄 *Livrables:* Tableau de bord Power BI, rapport PDF
-> 📁 *Dépôt:* [`dr-death`](https://github.com/Paul-Emmanuel-Buffe/dr-death)
-
-- [ ] 🔒 **Simple Port Scanner**:
-  - Create a tool to scan and identify open ports on target machines
-  - Apply network fundamentals and socket programming in Python
-  - Identify potentially vulnerable services through port scanning
-
-## List of projects
-- [ ] **Recommendation System** :
-    
-    - Basic Level: Implement a system based on popularity.
-    - Progression: Add simple collaborative filtering using tools like Pandas or Scikit-learn.
-    - Advanced Goal: Use predictive models for personalized recommendations.
+> 🛠 *Technologies used:* Power BI · DAX · Power Query
+> 📄 *Deliverables:* Power BI dashboard, PDF report
+> 📁 *Repository:* [`dr-death`](https://github.com/Paul-Emmanuel-Buffe/dr-death)
 
 - [ ] **Simple Port Scanner** : 
       
@@ -110,8 +130,6 @@ Ce travail combine l'analyse de données et la visualisation interactive pour mi
     - Understanding the basics of networks and ports (TCP/UDP).
     - Using sockets in Python.
     - Identifying open ports for potentially vulnerable services.
-<<<<<<< HEAD
-     
 
 ## 🚀 My Direct Contributions
 
