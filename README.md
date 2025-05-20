@@ -40,13 +40,57 @@ With a strong interest in AI, its challenges, and the world of data, I am eager 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
 
-## 📋 Current Projects
+## 🚀 Projets
 
-- [x] 🎮 **Create an AI bot for my TicTacToe game**
-- [ ] 🔍 **Recommendation System**:
-  - Basic Level: Implement a system based on popularity
-  - Intermediate: Add collaborative filtering using Pandas/Scikit-learn
-  - Advanced: Develop predictive models for personalized recommendations
+### 🔤 Lingua Franca – Application de Traduction en Temps Réel
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)](https://flask.palletsprojects.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
+Application web professionnelle pour la traduction multilingue en temps réel utilisant l'API DeepL. Interface utilisateur épurée, design réactif et interactions fluides via AJAX.
+**Fonctionnalités clés :** détection intelligente de la saisie, reconnaissance automatique de la langue, copie dans le presse-papiers.
+
+> 🛠 *Technologies utilisées:* Python · Flask · JavaScript · HTML/CSS · API DeepL
+> 📁 *Dépôt:* [`lingua-franca`](https://github.com/Paul-Emmanuel-Buffe/lingua-franca)
+
+---
+
+### 🧗 Arkose – Étude de Cas sur la Rétention de la Clientèle
+[![SQL](https://img.shields.io/badge/SQL-SQLite-informational)](https://sqlite.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Analysis-success)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blueviolet)](https://seaborn.pydata.org/)
+
+Analyse de données indépendante pour Arkose, une chaîne européenne de salles d'escalade en intérieur. L'étude identifie les facteurs de désabonnement et propose des stratégies actionnables utilisant Python et SQL.
+
+**Points forts :**
+- Segmentation des clients par comportement
+- Détection d'inactivité (>90 jours)
+- Recommandations stratégiques pour la rétention
+
+> 🛠 *Technologies utilisées:* Python · Pandas · SQLite · SQL · Matplotlib · Seaborn
+> 📄 *Livrables:* Rapport PDF, notebook interactif, script SQL
+> 📁 *Dépôt:* [`arkose-case-study`](#)
+
+---
+
+### 🩺 Dr Death - Analyse Power BI du Tueur en Série Harold Shipman
+[![Power BI](https://img.shields.io/badge/Power_BI-Analysis-yellow)](https://powerbi.microsoft.com/)
+
+Ce projet vise à explorer les données relatives aux meurtres commis par Harold Shipman, considéré comme le tueur en série le plus prolifique du Royaume-Uni. Grâce à la création d'un tableau de bord interactif dans Power BI, nous cherchons à répondre à la question centrale :
+
+Quels types de personnes Harold Shipman a-t-il tuées, et quand sont-elles mortes ?
+
+Ce travail combine l'analyse de données et la visualisation interactive pour mieux comprendre les tendances, les profils des victimes et les anomalies temporelles dans ses crimes.
+
+**Points forts :**
+- Surveillance technologique sur Power BI
+- Analyse de Shipman incluant le chargement, le nettoyage, la transformation et la visualisation des données
+- Profil des victimes, analyse temporelle, analyse des lieux de décès, étude de corrélation et comparaisons avec d'autres médecins
+
+> 🛠 *Technologies utilisées:* Power BI · DAX · Power Query
+> 📄 *Livrables:* Tableau de bord Power BI, rapport PDF
+> 📁 *Dépôt:* [`dr-death`](https://github.com/Paul-Emmanuel-Buffe/dr-death)
+
 - [ ] 🔒 **Simple Port Scanner**:
   - Create a tool to scan and identify open ports on target machines
   - Apply network fundamentals and socket programming in Python
