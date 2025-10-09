@@ -28,10 +28,11 @@ I design **data-driven solutions** and build **AI models** to tackle real-world 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
 ### Data & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![DBT](https://img.shields.io/badge/DBT-FF694B?logo=dbt&logoColor=fff&style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=fff&style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=fff&style=flat)
+![DBT](https://img.shields.io/badge/DBT-FF694B?logo=dbt&logoColor=fff&style=flat)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000&style=flat)
 
 ### Databases
@@ -120,3 +121,4 @@ A **professional web app** for real-time text translation using the DeepL API. F
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/paul-emmanuel-buffe-757a2199/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:paul-emmanuel.buffe@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=notion&logoColor=white&style=for-the-badge)](https://paul-emmanuel-buffe.github.io/portfolio/)
+
