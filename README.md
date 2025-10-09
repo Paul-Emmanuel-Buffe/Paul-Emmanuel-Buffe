@@ -24,7 +24,6 @@ With a strong interest in AI, its challenges, and the world of data, I am eager 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![DAX](https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black&style=flat)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)
