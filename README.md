@@ -31,7 +31,8 @@ With a strong interest in AI, its challenges, and the world of data, I am eager 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
-
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=fff&style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=fff&style=flat)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
