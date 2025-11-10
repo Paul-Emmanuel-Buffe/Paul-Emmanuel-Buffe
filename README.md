@@ -30,6 +30,7 @@ I design **data-driven solutions** and build **AI models** to tackle real-world 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=white&style=flat)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
