@@ -33,6 +33,7 @@ I design **data-driven solutions** and build **AI models** to tackle real-world 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000&style=flat)
 ![DBT](https://img.shields.io/badge/DBT-FF694B?logo=dbt&logoColor=fff&style=flat)
