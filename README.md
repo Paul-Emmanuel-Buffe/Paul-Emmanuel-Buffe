@@ -11,27 +11,24 @@ I design **data-driven solutions** and build **AI models** to tackle real-world 
 ---
 
 ## Technical Skills
-
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=sql&logoColor=fff&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-
 ### Data Science & AI
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=fff&style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=fff&style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0078D4?logo=microsoft-excel&logoColor=fff&style=flat)
-
 ### Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=white&style=flat)
-
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
@@ -39,6 +36,8 @@ I design **data-driven solutions** and build **AI models** to tackle real-world 
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=000&style=flat)
 ![DBT](https://img.shields.io/badge/DBT-FF694B?logo=dbt&logoColor=fff&style=flat)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white&style=flat)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?logo=google&logoColor=white&style=flat)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
