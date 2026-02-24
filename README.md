@@ -14,6 +14,7 @@ I design **data-driven solutions** and build **AI models** to tackle real-world 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=sql&logoColor=fff&style=flat)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ### Data Science & AI
